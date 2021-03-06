@@ -1,5 +1,6 @@
 //Nigerian mobile number prefixes from the four major telcos - MTN, GLO, AIRTEL & ETISALAT
-var telcoPrefixes = [703, 706, 803, 806, 810, 813, 814, 816, 903, 705, 805, 811, 815, 905, 701, 708, 802, 808, 812, 902, 809, 817, 818, 909, 804];
+//updated to include New Phone number prefixes
+var telcoPrefixes = [703, 706, 803, 806, 810, 813, 814, 816, 903, 705, 805, 811, 815, 905, 701, 708, 802, 808, 812, 902, 809, 817, 818, 909, 804, 913];
 
 //search array for specific values
 function in_array(value, array){
